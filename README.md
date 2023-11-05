@@ -1,6 +1,9 @@
 Olá! Me chamo Denilson Jose! 👋
+
 👨‍💻 Hoje estou buscando estagio de desenvolvimento de software
+
 📚 Cursando faculdade de engenharia de software
+
 💡 Sou apaixonado por tecnologia e desenvolvimento de sistemas. 
 Desenvolvedor Front-End
 

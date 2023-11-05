@@ -1,16 +1,18 @@
-### Hi there 👋
+Olá! Me chamo Denilson Jose! 👋
+👨‍💻 Hoje estou buscando estagio de desenvolvimento de software
+📚 Cursando faculdade de engenharia de software
+💡 Sou apaixonado por tecnologia e desenvolvimento de sistemas. 
+Desenvolvedor Front-End
 
-<!--
-**Denny-archer/denny-archer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exemplo Projetos
+Aqui esta o link para o meu portifolio 
 
-Here are some ideas to get you started:
+Objetivos
+Ter novas experiencias como desenvolvedor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabalhar em grandes empresas de tecnologia
+
+Construir minha propria empresa
+
+Me tornar um desenvolvedor Full Stack
+
